@@ -151,6 +151,4 @@ This project was developed for a coursework scenario focused on:
 - Computer Graphics and Visualization
 - Team-based software engineering workflow
 
-## License
 
-Educational use only unless explicitly relicensed by the project owners.
